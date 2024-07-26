@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "commander": "^12.1.0",
+    "glob": "^11.0.0",
     "simple-git": "^3.25.0",
     "ts-morph": "^23.0.0",
     "tsx": "^4.16.2",
